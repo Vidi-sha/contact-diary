@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contact-diary/static/css/main.2245ff05.css",
+    "main.js": "/contact-diary/static/js/main.7731fd5f.js",
+    "index.html": "/contact-diary/index.html",
+    "main.2245ff05.css.map": "/contact-diary/static/css/main.2245ff05.css.map",
+    "main.7731fd5f.js.map": "/contact-diary/static/js/main.7731fd5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2245ff05.css",
+    "static/js/main.7731fd5f.js"
+  ]
+}
